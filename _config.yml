@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Szóviccek"
 description:      "Yeah."
-url:              http://localhost:4000 # Site url, without a slash at the end.
+url:              http://szovicc.github.io/ # Site url, without a slash at the end.
 signoff:          "andris" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
